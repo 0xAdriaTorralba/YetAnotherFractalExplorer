@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FractalsComplexPlane",
+"productVersion": "0.1",
+"dataUrl": "YetAnotherFractalExplorer_WebGL.data.unityweb",
+"wasmCodeUrl": "YetAnotherFractalExplorer_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "YetAnotherFractalExplorer_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
