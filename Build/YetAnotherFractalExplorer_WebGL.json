@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "FractalsComplexPlane",
-"productVersion": "0.1",
+"companyName": "AVSC",
+"productName": "Yet Another Fractal Explorer",
+"productVersion": "1",
 "dataUrl": "YetAnotherFractalExplorer_WebGL.data.unityweb",
 "wasmCodeUrl": "YetAnotherFractalExplorer_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "YetAnotherFractalExplorer_WebGL.wasm.framework.unityweb",
