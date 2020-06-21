@@ -10,3 +10,4 @@ We also plan to release an iOS and Android application of this software.
 
 ## Screenshots of the application
 
+![Alt text](https://imgur.com/MS2It8r "Main Page")
