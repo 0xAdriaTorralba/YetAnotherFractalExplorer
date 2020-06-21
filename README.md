@@ -1,37 +1,12 @@
-# Welcome to Yet Another Fractal Explorer!
+# Yet Another Fractal Explorer!
 
-You can use the [editor on GitHub](https://github.com/adry26/YetAnotherFractalExplorer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my Final Degree Project made at Universitat de Barcelona for the Double degree in Mathematics and Computer Science!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an application that allows you to explore the fractals from Mandelbrot (and Multibrot) sets and Julia sets as well as some 3D fractals such as the Mandelbulb or some IFS fractals directly on a [website!](https://adry26.github.io/YetAnotherFractalExplorer/)
 
-### Markdown
+In addition, you can find on [releases](https://github.com/adry26/YetAnotherFractalExplorer/releases/latest) the binaries for an enhanced MacOS version of this software! Windows and Linux binaries are comming soon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We also plan to release an iOS and Android application of this software.
 
-```markdown
-Syntax highlighted code block
+## Screenshots of the application
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adry26/YetAnotherFractalExplorer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
