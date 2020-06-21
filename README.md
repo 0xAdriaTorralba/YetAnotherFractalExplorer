@@ -10,4 +10,34 @@ We also plan to release an iOS and Android application of this software.
 
 ## Screenshots of the application
 
-![Alt text](https://imgur.com/MS2It8r "Main Page")
+### Main page
+![Imgur](https://i.imgur.com/MS2It8r.png "Main Page")
+
+### 2D Fractals rendered by CPU
+![Imgur](https://i.imgur.com/zNkyzUk.png "2D CPU Scene")
+
+
+![Imgur](https://i.imgur.com/xHV539g.png "Finding periodic orbits")
+
+![Imgur](https://i.imgur.com/jnhjqG8.png "Henrisken Algorithm")
+
+
+![Imgur](https://i.imgur.com/QvQONdu.png "Different Colormaps")
+
+### 2D Fractals rendered by GPU
+![Imgur](https://i.imgur.com/d8JI9C9.png "GPU Scene")
+
+
+![Imgur](https://i.imgur.com/66Jp1xR.png "Multibrot sets")
+
+
+### 3D Fractals rendered by GPU
+![Imgur](https://i.imgur.com/j77vjOF.png "Mandelbulb")
+
+
+
+![Imgur](https://i.imgur.com/ceEp2xM.png "Sierpiński Tetrahedron")
+
+
+
+![Imgur](https://i.imgur.com/BFbSLAR.png "Menger Sponge")
