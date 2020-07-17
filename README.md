@@ -11,11 +11,15 @@ We also plan to release an iOS and Android application of this software.
 ## Screenshots of the application
 
 ### Main page
-![Imgur](https://i.imgur.com/MS2It8r.png "Main Page")
+![Imgur](https://i.imgur.com/Ivls1Ox.png "Main Page")
+
 
 ### 2D Fractals rendered by CPU
-![Imgur](https://i.imgur.com/zNkyzUk.png "2D CPU Scene")
+![Imgur](https://i.imgur.com/HmaQwx4.png "2D CPU Scene")
 
+#### More options
+
+![Imgur](https://i.imgur.com/95uNKeG.png "More options")
 
 ![Imgur](https://i.imgur.com/xHV539g.png "Finding periodic orbits")
 
@@ -25,13 +29,15 @@ We also plan to release an iOS and Android application of this software.
 ![Imgur](https://i.imgur.com/QvQONdu.png "Different Colormaps")
 
 ### 2D Fractals rendered by GPU
-![Imgur](https://i.imgur.com/d8JI9C9.png "GPU Scene")
+![Imgur](https://i.imgur.com/wOkbLqP.png "2D GPU Scene")
 
 
 ![Imgur](https://i.imgur.com/66Jp1xR.png "Multibrot sets")
 
 
 ### 3D Fractals rendered by GPU
+![Imgur](https://i.imgur.com/6ZfXfEg.png "3D GPU Scene")
+
 ![Imgur](https://i.imgur.com/j77vjOF.png "Mandelbulb")
 
 
