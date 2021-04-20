@@ -8,6 +8,8 @@ In addition, you can find on [releases](https://github.com/adry26/YetAnotherFrac
 
 We also plan to release an iOS and Android application of this software.
 
+Find the Final Degree Project memory [here](https://drive.google.com/file/d/16_nap8kmNfl0DdWK29db1oSzG5NdkPio/view?usp=sharing)
+
 ## Screenshots of the application
 
 ### Main page
