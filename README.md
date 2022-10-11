@@ -8,7 +8,7 @@ In addition, you can find on [releases](https://github.com/0xAdriaTorralba/YetAn
 
 We also plan to release an iOS and Android application of this software.
 
-Find the Final Degree Project memory [here](https://drive.google.com/file/d/16_nap8kmNfl0DdWK29db1oSzG5NdkPio/view?usp=sharing)
+Find the Final Degree Project memory [here](http://diposit.ub.edu/dspace/handle/2445/178855)
 
 ## Screenshots of the application
 
